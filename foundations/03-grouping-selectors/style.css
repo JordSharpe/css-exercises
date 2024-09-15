@@ -1,0 +1,12 @@
+.bt-1,
+.bt-2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.bt-1 {
+    background-color: black;
+    color: white;
+}
+.bt-2 {
+    background-color: yellow;
+}
